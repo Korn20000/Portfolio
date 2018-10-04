@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HOC_ASSIGNMENT</string>
+
+    <string name="my_profile">My profile</string>
+    <string name="public_pics">Public pics</string>
+    <string name="google_maps">Maps</string>
+    <string name="logout">Logout</string>
+
+    <string name="fragment_title_user_data">My Profile</string>
+
+    <string name="login_title">Login required</string>
+    <string name="login_message">Please log in to Yahoo and authorize your account to link to your Flickr account</string>
+
+    <string name="google_map_API">AIzaSyCR3yNmoYbOu-YW06VIZSVMARjwc_JisJk</string>
+
+</resources>

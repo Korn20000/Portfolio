@@ -1,0 +1,8 @@
+Et mindre projekt som var i samarbejde med Lego, der skulle laves en app basseret på Lego Nexo Knight.
+Her blev der lavet en del med augmented reality, animationer og lyd. Jeg scriptede knapper og animationer.
+Følgende klasser som jeg sad med kan findes under \MerloksRegistry\Assets\scripts:
+- EmotionButs.cs
+- ShowButtons.cs
+- VirtualButtonEventHandler.cs
+
+PS! det er ikke ligefrem de pænste koder som er lavet, men det er vel en del af læringsprocessen.

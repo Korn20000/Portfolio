@@ -1,0 +1,10 @@
+Glucose meter - bachelor projekt: Projektet bestod af at gøre det nemmere for diabetikere at aflæse deres blodsukker. 
+Vi lavede en simulering via bluetooth connection til audrino, tallet  blev vist i appen og tallene blev  derefter uploaded til en hjemmeside hvor en "læge" kunne følge med i udviklingen. 
+
+De klasser som jeg har siddet med er hovedsageligt; Filter, History, HttpServicesClass, PatientInformation, Graph samt ListAdapterClass.
+- Filter skulle filtrer ens resultater, den blev dog ikke helt færdig da jeg selv havde lidt problemer  med at parse målingerne fra History class.
+- History gik ind og hentede resultaterne fra databasen.
+- HttpServisesClass laver en åben connection til databasen og hjemmesiden dvs. for hver gang der blev lavet en måling så blev de uploaded til "lægen".
+- PatientInformation  er som sån en getter og setter for hvilke informationer der skulle være til målingerne.
+- ListAdapterClass viser resultaterne for målingerne.
+- Graph bruger  en ekstern library til at kunne tegne en graf dog ikke færdig implementeret.

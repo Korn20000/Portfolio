@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_home">Domov</string>
+    <string name="app_history">História</string>
+    <string name="app_graph">Graf</string>
+    <string name="app_setting">Nastavenie </string>
+    <string name="app_help">Pomoc</string>
+    <string name="navigation_drawer_open">Åben navigationsbar</string>
+    <string name="navigation_drawer_close">Luk navigationsbar</string>
+    <string name="action_info">Informácie</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_write">Skriv en note</string>
+    <string name="filter_filter">Filter</string>
+    <string name="filter_toDate">Dátum od</string>
+    <string name="filter_clickToAddDate">Ťukni sem pre zadanie dátumu od</string>
+    <string name="filter_frmDate">Dátum do</string>
+    <string name="filter_clickToAddFromDate">Ťukni sem pre zadanie dátumu do</string>
+    <string name="filter_sort">Zoradiť</string>
+    <string name="filter_value">Hodnota / Level</string>
+    <string name="filter_date">Dátum</string>
+    <string name="filter_btnAscending">Vzostupne</string>
+    <string name="filter_btnDescending">Zostupne</string>
+    <string name="filter_btnConfirm">Potvrdiť</string>
+    <string name="filter_btnCancel">Zrušiť</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_home">Hjem</string>
+    <string name="app_history">Historie</string>
+    <string name="app_graph">Graf</string>
+    <string name="app_setting">Instillinger</string>
+    <string name="app_help">Hjælp</string>
+    <string name="navigation_drawer_open">Åben navigationsbar</string>
+    <string name="navigation_drawer_close">Luk navigationsbar</string>
+    <string name="action_info">Info</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_write">Skriv en note</string>
+    <string name="filter_filter">Filter</string>
+    <string name="filter_toDate">Til dato</string>
+    <string name="filter_clickToAddDate">Klik for at tilføje til dato</string>
+    <string name="filter_frmDate">Fra dato</string>
+    <string name="filter_clickToAddFromDate">Klik for at tilføre fra date</string>
+    <string name="filter_sort">Sorter</string>
+    <string name="filter_value">Værdi/ niveau</string>
+    <string name="filter_date">Dato</string>
+    <string name="filter_btnAscending">Stigende</string>
+    <string name="filter_btnDescending">Faldende</string>
+    <string name="filter_btnConfirm">Bekræft</string>
+    <string name="filter_btnCancel">Annullere</string>
+</resources>

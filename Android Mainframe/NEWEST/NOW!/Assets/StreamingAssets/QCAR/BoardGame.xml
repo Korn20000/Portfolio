@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Line9" size="3.000000 12.795180" />
+    <ImageTarget name="Line8" size="3.000000 12.795180" />
+    <ImageTarget name="Line7" size="3.000000 12.795180" />
+    <ImageTarget name="Line6" size="3.000000 12.795180" />
+    <ImageTarget name="Line5" size="3.000000 12.795180" />
+    <ImageTarget name="Line4" size="3.000000 12.795180" />
+    <ImageTarget name="Line3" size="3.000000 12.795180" />
+    <ImageTarget name="Line2" size="3.000000 12.795180" />
+    <ImageTarget name="Line1" size="3.000000 12.795180" />
+    <ImageTarget name="Line" size="3.000000 12.795180" />
+    <ImageTarget name="Grid_guide_QRCodes_Box_A3_V3_Vuforia" size="10.000000 8.933993" />
+    <ImageTarget name="Line_FINAL_Vuforia" size="10.000000 42.650604" />
+    <ImageTarget name="Knight_FINAL" size="10.000000 10.000000" />
+    <ImageTarget name="Robot_FINAL" size="10.000000 10.000000" />
+    <ImageTarget name="QRStripV11_A3" size="10.000000 42.650604" />
+    <ImageTarget name="QRStripV10_A3" size="1.000000 4.265060" />
+    <ImageTarget name="KnightTokenV2_A3" size="10.000000 10.000000" />
+    <ImageTarget name="RobotTokenv3_A3" size="10.000000 10.000000" />
+    <ImageTarget name="Grid_guide_QRCodes_Box_A3_V2_Vuforia" size="10.000000 16.176199" />
+    <ImageTarget name="QRCodes_A3" size="10.000000 7.069139" />
+    <ImageTarget name="RobotTokenv2_A3" size="3.000000 3.000000" />
+    <ImageTarget name="KnightToken_A3" size="3.000000 3.000000" />
+    <ImageTarget name="QRStripV9_A3" size="2.000000 9.415282" />
+    <ImageTarget name="QRStripV9" size="10.000000 47.033897" />
+    <ImageTarget name="QRStripV6_highResCont" size="10.000000 47.033897" />
+    <ImageTarget name="QRStripV8" size="0.500000 2.347458" />
+    <ImageTarget name="QRStripV7" size="10.000000 46.949154" />
+    <ImageTarget name="QRStripV6" size="10.000000 46.949154" />
+    <ImageTarget name="RobotTokenv2" size="10.000000 10.000000" />
+    <ImageTarget name="KnightToken" size="10.000000 10.000000" />
+    <ImageTarget name="QRStripV5" size="10.000000 46.949154" />
+    <ImageTarget name="QRStripV4" size="10.000000 46.949154" />
+    <ImageTarget name="QRStripV3" size="0.500000 2.347458" />
+    <ImageTarget name="QRCodes" size="10.000000 7.069555" />
+    <ImageTarget name="QRStrip_Inverted" size="10.000000 95.084747" />
+    <ImageTarget name="QRStrip" size="10.000000 95.084747" />
+    <ImageTarget name="TrackableLost" size="10.000000 14.470589" />
+    <ImageTarget name="RulerLineThick3" size="10.000000 9.364706" />
+    <ImageTarget name="RulerLineThick2" size="10.000000 9.364706" />
+    <ImageTarget name="RulerLine2" size="10.000000 9.364706" />
+    <ImageTarget name="RulerLine" size="10.000000 9.364706" />
+    <ImageTarget name="Multiple6" size="10.000000 9.853301" />
+    <ImageTarget name="Multiple5" size="10.000000 9.853301" />
+    <ImageTarget name="Multiple4" size="10.000000 9.853301" />
+    <ImageTarget name="Multiple3" size="10.000000 9.853301" />
+    <ImageTarget name="Multiple2" size="10.000000 9.853301" />
+    <ImageTarget name="Multiple" size="10.000000 9.853301" />
+    <ImageTarget name="dash" size="10.000000 9.853301" />
+    <ImageTarget name="ThickLine5" size="10.000000 9.853301" />
+    <ImageTarget name="ThickLine4" size="10.000000 9.853301" />
+    <ImageTarget name="ThickLine3" size="10.000000 9.853301" />
+    <ImageTarget name="ThickLine2" size="10.000000 9.853301" />
+    <ImageTarget name="ThickLine" size="10.000000 9.853301" />
+    <ImageTarget name="A4QRBOARD" size="10.000000 7.069555" />
+    <ImageTarget name="BIGcrosssssssssssssssssssss" size="10.000000 14.139610" />
+    <ImageTarget name="QRRRRRRRRRRRRRRRRRR" size="10.000000 10.000000" />
+    <ImageTarget name="Cross" size="10.000000 8.631179" />
+    <ImageTarget name="Circle" size="10.000000 8.631179" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,3 @@
+jeg er nu meget stolt af opgaven da det egentligt var en mundfuld ikke til at sige at det sikkert mere arbejde end de forventede jeg havde lagt i den. 
+Det varhovedsageligt fra kl 9:00 til kl 4:00 hver dag i en hel uge hvor jeg sad med opgaven. 
+Den er sat sammen med noget jeg selv havde skrevet og noget som blev fundet på nettet. Vil da påpege at jeg lærte en del om at bruge API, list views, splash screens og OAuth.

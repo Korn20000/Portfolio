@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="BarColor">#35536B</color>
+    <color name="Background">#00AEC7</color>
+    <color name="babyBlueColor">#69003cff</color>
+    <color name="OK_level">#00965E</color>
+    <color name="mid_low_level">#FFA500</color>
+    <color name="very_low_level">#B22222</color>
+    <color name="mid_high_level">#EEE8AA</color>
+    <color name="very_high_level">#F08080</color>
+    <color name="graph">#ffffff</color>
+
+
+</resources>

@@ -1,0 +1,698 @@
+fileFormatVersion: 2
+guid: fd7d1b49adca1094fafb9a1c184c55a4
+timeCreated: 1464258742
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: a15400_0
+    100004: a15400_1
+    100006: BI_70317_
+    100008: BI_70330_
+    100010: BI_70331
+    100012: BI_70332
+    100014: BI_70333
+    100016: bLCam_sys
+    100018: bLCam_sys 1
+    100020: bLCam_sys 2
+    100022: bLCam_sys 3
+    100024: bLCam_Sys_Sel_Rev
+    100026: body
+    100028: group1
+    100030: group2
+    100032: group3
+    100034: group4
+    100036: group5
+    100038: head
+    100040: left_side
+    100042: LeftArm
+    100044: LeftHand
+    100046: LEGO_directionalLight1
+    100048: LEGO_directionalLight1 1
+    100050: LEGO_directionalLight1 10
+    100052: LEGO_directionalLight1 11
+    100054: LEGO_directionalLight1 2
+    100056: LEGO_directionalLight1 3
+    100058: LEGO_directionalLight1 4
+    100060: LEGO_directionalLight1 5
+    100062: LEGO_directionalLight1 6
+    100064: LEGO_directionalLight1 7
+    100066: LEGO_directionalLight1 8
+    100068: LEGO_directionalLight1 9
+    100070: LEGO_directionalLight10
+    100072: LEGO_directionalLight11
+    100074: LEGO_directionalLight12
+    100076: LEGO_directionalLight13
+    100078: LEGO_directionalLight14
+    100080: LEGO_directionalLight15
+    100082: LEGO_directionalLight16
+    100084: LEGO_directionalLight17
+    100086: LEGO_directionalLight18
+    100088: LEGO_directionalLight19
+    100090: LEGO_directionalLight2
+    100092: LEGO_directionalLight20
+    100094: LEGO_directionalLight21
+    100096: LEGO_directionalLight22
+    100098: LEGO_directionalLight23
+    100100: LEGO_directionalLight24
+    100102: LEGO_directionalLight25
+    100104: LEGO_directionalLight26
+    100106: LEGO_directionalLight27
+    100108: LEGO_directionalLight28
+    100110: LEGO_directionalLight29
+    100112: LEGO_directionalLight3
+    100114: LEGO_directionalLight30
+    100116: LEGO_directionalLight31
+    100118: LEGO_directionalLight32
+    100120: LEGO_directionalLight33
+    100122: LEGO_directionalLight34
+    100124: LEGO_directionalLight35
+    100126: LEGO_directionalLight36
+    100128: LEGO_directionalLight37
+    100130: LEGO_directionalLight4
+    100132: LEGO_directionalLight5
+    100134: LEGO_directionalLight6
+    100136: LEGO_directionalLight7
+    100138: LEGO_directionalLight8
+    100140: LEGO_directionalLight9
+    100142: LEGO_pointLight1
+    100144: LEGO_pointLight1 1
+    100146: LEGO_pointLight1 10
+    100148: LEGO_pointLight1 11
+    100150: LEGO_pointLight1 2
+    100152: LEGO_pointLight1 3
+    100154: LEGO_pointLight1 4
+    100156: LEGO_pointLight1 5
+    100158: LEGO_pointLight1 6
+    100160: LEGO_pointLight1 7
+    100162: LEGO_pointLight1 8
+    100164: LEGO_pointLight1 9
+    100166: m11090_holder_3_2_w_tube_3_2_hole_0
+    100168: m11090_holder_3_2_w_tube_3_2_hole_1
+    100170: m11090_holder_3_2_w_tube_3_2_hole_2
+    100172: m14417_plate_1x2_ball_5_9_middle_0
+    100174: m14417_plate_1x2_ball_5_9_middle_1
+    100176: m14704_plate_1x2_ball_cup_friction_middle_0
+    100178: m14704_plate_1x2_ball_cup_friction_middle_1
+    100180: m15301_SPRING_SHOOTER_BOTTOM_0
+    100182: m15301_SPRING_SHOOTER_BOTTOM_0 1
+    100184: m15302_SPRING_SHOOTER_TOP_0
+    100186: m15302_SPRING_SHOOTER_TOP_0 1
+    100188: m15303_arrow_8m_for_spring_shooter_0
+    100190: m15303_arrow_8m_for_spring_shooter_1
+    100192: m15303_arrow_8m_for_spring_shooter_2
+    100194: m15303_arrow_8m_for_spring_shooter_3
+    100196: m15303_arrow_8m_for_spring_shooter_5
+    100198: m15303_arrow_8m_for_spring_shooter_6
+    100200: m15303_arrow_8m_for_spring_shooter_7
+    100202: m15573_plate_1x2_w_1_knob_0
+    100204: m15573_plate_1x2_w_1_knob_1
+    100206: m15706_plate_a_4m_45_0
+    100208: m15706_plate_a_4m_45_1
+    100210: m18031_mini_long_sword_0
+    100212: m21712_angle_plate_1x2_2x2_0
+    100214: m21712_angle_plate_1x2_2x2_1
+    100216: m22385_flat_tile2x3_w_angle_0
+    100218: m22385_flat_tile2x3_w_angle_0 1
+    100220: m22385_flat_tile2x3_w_angle_1
+    100222: m22385_flat_tile2x3_w_angle_2
+    100224: m22385_flat_tile2x3_w_angle_3
+    100226: m22391_roof_tile_4x4_45deg_0
+    100228: m22402_armor_no_17_0
+    100230: m22408_mini_shield_no_2_0
+    100232: m3004_brick_1x2_0
+    100234: m30057_round_plate_1x1_tr_0
+    100236: m30057_round_plate_1x1_tr_1
+    100238: m30057_round_plate_1x1_tr_2
+    100240: m30057_round_plate_1x1_tr_3
+    100242: m30068_round_brick_1_tr_0
+    100244: m3021_plate_2x3_0
+    100246: m3021_plate_2x3_1
+    100248: m3021_plate_2x3_2
+    100250: m3021_plate_2x3_3
+    100252: m3022_plate_2x2_0
+    100254: m3022_plate_2x2_1
+    100256: m3023_plate_1x2_0
+    100258: m3023_plate_1x2_1
+    100260: m3023_plate_1x2_2
+    100262: m3023_plate_1x2_3
+    100264: m3023_plate_1x2_4
+    100266: m33057_turkey_drumstick_0
+    100268: m33057_turkey_drumstick_1
+    100270: m33057_turkey_drumstick_2
+    100272: m33057_turkey_drumstick_3
+    100274: m3626_mini_head_no_1786_0
+    100276: m3814_MINI_UPPER_PART_0
+    100278: m3818_MINI_ARM__RIGHT_0
+    100280: m3819_MINI_ARM__LEFT_0
+    100282: m3820_MINI_HAND_0
+    100284: m3820_MINI_HAND_1
+    100286: m3937_rocker_bearing_1x2_0
+    100288: m3937_rocker_bearing_1x2_1
+    100290: m41769_right_plate_2x4_w_angle_0
+    100292: m41770_left_plate_2x4_w_angle_0
+    100294: m41879_mini_leg_0
+    100296: m4287_roof_tile_1x3_25_inv_0
+    100298: m4287_roof_tile_1x3_25_inv_1
+    100300: m50950_brick_w_bow_1_3_0
+    100302: m50950_brick_w_bow_1_3_1
+    100304: m59233_lightening_bolt_co_inj_126_42_0
+    100306: m59233_lightening_bolt_co_inj_126_42_1
+    100308: m60897_plate_1x1_w_holder_0
+    100310: m60897_plate_1x1_w_holder_1
+    100312: m6134_plate_2x2_rocking_0
+    100314: m6134_plate_2x2_rocking_1
+    100316: m85984_roof_tile_1_x_2_x_2_3_abs_0
+    100318: m85984_roof_tile_1_x_2_x_2_3_abs_1
+    100320: m87580_plate_2x2_w_1_knob_0
+    100322: m87580_plate_2x2_w_1_knob_1
+    100324: m87580_plate_2x2_w_1_knob_2
+    100326: m88072_plate_1x2_w_vertical_schaft_0
+    100328: m88072_plate_1x2_w_vertical_schaft_1
+    100330: m88072_plate_1x2_w_vertical_schaft_2
+    100332: m89520_mini_knight_s_helmet_closed_0
+    100334: m92746_luke_skywalker_wig_0
+    100336: m98368_mini_toolbox_0
+    100338: m98368_mini_toolbox_1
+    100340: m99781_angular_plate_1_5_top_1x2_1_2_0
+    100342: m99781_angular_plate_1_5_top_1x2_1_2_1
+    100344: Model
+    100346: power_back_Robin
+    100348: right_side
+    100350: RightArm
+    100352: RightHand
+    100354: Robin
+    100356: shield_Robin
+    100358: Stand
+    400000: //RootNode
+    400002: a15400_0
+    400004: a15400_1
+    400006: BI_70317_
+    400008: BI_70330_
+    400010: BI_70331
+    400012: BI_70332
+    400014: BI_70333
+    400016: bLCam_sys
+    400018: bLCam_sys 1
+    400020: bLCam_sys 2
+    400022: bLCam_sys 3
+    400024: bLCam_Sys_Sel_Rev
+    400026: body
+    400028: group1
+    400030: group2
+    400032: group3
+    400034: group4
+    400036: group5
+    400038: head
+    400040: left_side
+    400042: LeftArm
+    400044: LeftHand
+    400046: LEGO_directionalLight1
+    400048: LEGO_directionalLight1 1
+    400050: LEGO_directionalLight1 10
+    400052: LEGO_directionalLight1 11
+    400054: LEGO_directionalLight1 2
+    400056: LEGO_directionalLight1 3
+    400058: LEGO_directionalLight1 4
+    400060: LEGO_directionalLight1 5
+    400062: LEGO_directionalLight1 6
+    400064: LEGO_directionalLight1 7
+    400066: LEGO_directionalLight1 8
+    400068: LEGO_directionalLight1 9
+    400070: LEGO_directionalLight10
+    400072: LEGO_directionalLight11
+    400074: LEGO_directionalLight12
+    400076: LEGO_directionalLight13
+    400078: LEGO_directionalLight14
+    400080: LEGO_directionalLight15
+    400082: LEGO_directionalLight16
+    400084: LEGO_directionalLight17
+    400086: LEGO_directionalLight18
+    400088: LEGO_directionalLight19
+    400090: LEGO_directionalLight2
+    400092: LEGO_directionalLight20
+    400094: LEGO_directionalLight21
+    400096: LEGO_directionalLight22
+    400098: LEGO_directionalLight23
+    400100: LEGO_directionalLight24
+    400102: LEGO_directionalLight25
+    400104: LEGO_directionalLight26
+    400106: LEGO_directionalLight27
+    400108: LEGO_directionalLight28
+    400110: LEGO_directionalLight29
+    400112: LEGO_directionalLight3
+    400114: LEGO_directionalLight30
+    400116: LEGO_directionalLight31
+    400118: LEGO_directionalLight32
+    400120: LEGO_directionalLight33
+    400122: LEGO_directionalLight34
+    400124: LEGO_directionalLight35
+    400126: LEGO_directionalLight36
+    400128: LEGO_directionalLight37
+    400130: LEGO_directionalLight4
+    400132: LEGO_directionalLight5
+    400134: LEGO_directionalLight6
+    400136: LEGO_directionalLight7
+    400138: LEGO_directionalLight8
+    400140: LEGO_directionalLight9
+    400142: LEGO_pointLight1
+    400144: LEGO_pointLight1 1
+    400146: LEGO_pointLight1 10
+    400148: LEGO_pointLight1 11
+    400150: LEGO_pointLight1 2
+    400152: LEGO_pointLight1 3
+    400154: LEGO_pointLight1 4
+    400156: LEGO_pointLight1 5
+    400158: LEGO_pointLight1 6
+    400160: LEGO_pointLight1 7
+    400162: LEGO_pointLight1 8
+    400164: LEGO_pointLight1 9
+    400166: m11090_holder_3_2_w_tube_3_2_hole_0
+    400168: m11090_holder_3_2_w_tube_3_2_hole_1
+    400170: m11090_holder_3_2_w_tube_3_2_hole_2
+    400172: m14417_plate_1x2_ball_5_9_middle_0
+    400174: m14417_plate_1x2_ball_5_9_middle_1
+    400176: m14704_plate_1x2_ball_cup_friction_middle_0
+    400178: m14704_plate_1x2_ball_cup_friction_middle_1
+    400180: m15301_SPRING_SHOOTER_BOTTOM_0
+    400182: m15301_SPRING_SHOOTER_BOTTOM_0 1
+    400184: m15302_SPRING_SHOOTER_TOP_0
+    400186: m15302_SPRING_SHOOTER_TOP_0 1
+    400188: m15303_arrow_8m_for_spring_shooter_0
+    400190: m15303_arrow_8m_for_spring_shooter_1
+    400192: m15303_arrow_8m_for_spring_shooter_2
+    400194: m15303_arrow_8m_for_spring_shooter_3
+    400196: m15303_arrow_8m_for_spring_shooter_5
+    400198: m15303_arrow_8m_for_spring_shooter_6
+    400200: m15303_arrow_8m_for_spring_shooter_7
+    400202: m15573_plate_1x2_w_1_knob_0
+    400204: m15573_plate_1x2_w_1_knob_1
+    400206: m15706_plate_a_4m_45_0
+    400208: m15706_plate_a_4m_45_1
+    400210: m18031_mini_long_sword_0
+    400212: m21712_angle_plate_1x2_2x2_0
+    400214: m21712_angle_plate_1x2_2x2_1
+    400216: m22385_flat_tile2x3_w_angle_0
+    400218: m22385_flat_tile2x3_w_angle_0 1
+    400220: m22385_flat_tile2x3_w_angle_1
+    400222: m22385_flat_tile2x3_w_angle_2
+    400224: m22385_flat_tile2x3_w_angle_3
+    400226: m22391_roof_tile_4x4_45deg_0
+    400228: m22402_armor_no_17_0
+    400230: m22408_mini_shield_no_2_0
+    400232: m3004_brick_1x2_0
+    400234: m30057_round_plate_1x1_tr_0
+    400236: m30057_round_plate_1x1_tr_1
+    400238: m30057_round_plate_1x1_tr_2
+    400240: m30057_round_plate_1x1_tr_3
+    400242: m30068_round_brick_1_tr_0
+    400244: m3021_plate_2x3_0
+    400246: m3021_plate_2x3_1
+    400248: m3021_plate_2x3_2
+    400250: m3021_plate_2x3_3
+    400252: m3022_plate_2x2_0
+    400254: m3022_plate_2x2_1
+    400256: m3023_plate_1x2_0
+    400258: m3023_plate_1x2_1
+    400260: m3023_plate_1x2_2
+    400262: m3023_plate_1x2_3
+    400264: m3023_plate_1x2_4
+    400266: m33057_turkey_drumstick_0
+    400268: m33057_turkey_drumstick_1
+    400270: m33057_turkey_drumstick_2
+    400272: m33057_turkey_drumstick_3
+    400274: m3626_mini_head_no_1786_0
+    400276: m3814_MINI_UPPER_PART_0
+    400278: m3818_MINI_ARM__RIGHT_0
+    400280: m3819_MINI_ARM__LEFT_0
+    400282: m3820_MINI_HAND_0
+    400284: m3820_MINI_HAND_1
+    400286: m3937_rocker_bearing_1x2_0
+    400288: m3937_rocker_bearing_1x2_1
+    400290: m41769_right_plate_2x4_w_angle_0
+    400292: m41770_left_plate_2x4_w_angle_0
+    400294: m41879_mini_leg_0
+    400296: m4287_roof_tile_1x3_25_inv_0
+    400298: m4287_roof_tile_1x3_25_inv_1
+    400300: m50950_brick_w_bow_1_3_0
+    400302: m50950_brick_w_bow_1_3_1
+    400304: m59233_lightening_bolt_co_inj_126_42_0
+    400306: m59233_lightening_bolt_co_inj_126_42_1
+    400308: m60897_plate_1x1_w_holder_0
+    400310: m60897_plate_1x1_w_holder_1
+    400312: m6134_plate_2x2_rocking_0
+    400314: m6134_plate_2x2_rocking_1
+    400316: m85984_roof_tile_1_x_2_x_2_3_abs_0
+    400318: m85984_roof_tile_1_x_2_x_2_3_abs_1
+    400320: m87580_plate_2x2_w_1_knob_0
+    400322: m87580_plate_2x2_w_1_knob_1
+    400324: m87580_plate_2x2_w_1_knob_2
+    400326: m88072_plate_1x2_w_vertical_schaft_0
+    400328: m88072_plate_1x2_w_vertical_schaft_1
+    400330: m88072_plate_1x2_w_vertical_schaft_2
+    400332: m89520_mini_knight_s_helmet_closed_0
+    400334: m92746_luke_skywalker_wig_0
+    400336: m98368_mini_toolbox_0
+    400338: m98368_mini_toolbox_1
+    400340: m99781_angular_plate_1_5_top_1x2_1_2_0
+    400342: m99781_angular_plate_1_5_top_1x2_1_2_1
+    400344: Model
+    400346: power_back_Robin
+    400348: right_side
+    400350: RightArm
+    400352: RightHand
+    400354: Robin
+    400356: shield_Robin
+    400358: Stand
+    2300000: m11090_holder_3_2_w_tube_3_2_hole_0
+    2300002: m11090_holder_3_2_w_tube_3_2_hole_1
+    2300004: m11090_holder_3_2_w_tube_3_2_hole_2
+    2300006: m14417_plate_1x2_ball_5_9_middle_0
+    2300008: m14417_plate_1x2_ball_5_9_middle_1
+    2300010: m14704_plate_1x2_ball_cup_friction_middle_0
+    2300012: m14704_plate_1x2_ball_cup_friction_middle_1
+    2300014: m15301_SPRING_SHOOTER_BOTTOM_0
+    2300016: m15301_SPRING_SHOOTER_BOTTOM_0 1
+    2300018: m15302_SPRING_SHOOTER_TOP_0
+    2300020: m15302_SPRING_SHOOTER_TOP_0 1
+    2300022: m15303_arrow_8m_for_spring_shooter_0
+    2300024: m15303_arrow_8m_for_spring_shooter_1
+    2300026: m15303_arrow_8m_for_spring_shooter_2
+    2300028: m15303_arrow_8m_for_spring_shooter_3
+    2300030: m15303_arrow_8m_for_spring_shooter_5
+    2300032: m15303_arrow_8m_for_spring_shooter_6
+    2300034: m15303_arrow_8m_for_spring_shooter_7
+    2300036: m15573_plate_1x2_w_1_knob_0
+    2300038: m15573_plate_1x2_w_1_knob_1
+    2300040: m15706_plate_a_4m_45_0
+    2300042: m15706_plate_a_4m_45_1
+    2300044: m18031_mini_long_sword_0
+    2300046: m21712_angle_plate_1x2_2x2_0
+    2300048: m21712_angle_plate_1x2_2x2_1
+    2300050: m22385_flat_tile2x3_w_angle_0
+    2300052: m22385_flat_tile2x3_w_angle_0 1
+    2300054: m22385_flat_tile2x3_w_angle_1
+    2300056: m22385_flat_tile2x3_w_angle_2
+    2300058: m22385_flat_tile2x3_w_angle_3
+    2300060: m22391_roof_tile_4x4_45deg_0
+    2300062: m22402_armor_no_17_0
+    2300064: m22408_mini_shield_no_2_0
+    2300066: m3004_brick_1x2_0
+    2300068: m30057_round_plate_1x1_tr_0
+    2300070: m30057_round_plate_1x1_tr_1
+    2300072: m30057_round_plate_1x1_tr_2
+    2300074: m30057_round_plate_1x1_tr_3
+    2300076: m30068_round_brick_1_tr_0
+    2300078: m3021_plate_2x3_0
+    2300080: m3021_plate_2x3_1
+    2300082: m3021_plate_2x3_2
+    2300084: m3021_plate_2x3_3
+    2300086: m3022_plate_2x2_0
+    2300088: m3022_plate_2x2_1
+    2300090: m3023_plate_1x2_0
+    2300092: m3023_plate_1x2_1
+    2300094: m3023_plate_1x2_2
+    2300096: m3023_plate_1x2_3
+    2300098: m3023_plate_1x2_4
+    2300100: m33057_turkey_drumstick_0
+    2300102: m33057_turkey_drumstick_1
+    2300104: m33057_turkey_drumstick_2
+    2300106: m33057_turkey_drumstick_3
+    2300108: m3626_mini_head_no_1786_0
+    2300110: m3814_MINI_UPPER_PART_0
+    2300112: m3818_MINI_ARM__RIGHT_0
+    2300114: m3819_MINI_ARM__LEFT_0
+    2300116: m3820_MINI_HAND_0
+    2300118: m3820_MINI_HAND_1
+    2300120: m3937_rocker_bearing_1x2_0
+    2300122: m3937_rocker_bearing_1x2_1
+    2300124: m41769_right_plate_2x4_w_angle_0
+    2300126: m41770_left_plate_2x4_w_angle_0
+    2300128: m41879_mini_leg_0
+    2300130: m4287_roof_tile_1x3_25_inv_0
+    2300132: m4287_roof_tile_1x3_25_inv_1
+    2300134: m50950_brick_w_bow_1_3_0
+    2300136: m50950_brick_w_bow_1_3_1
+    2300138: m59233_lightening_bolt_co_inj_126_42_0
+    2300140: m59233_lightening_bolt_co_inj_126_42_1
+    2300142: m60897_plate_1x1_w_holder_0
+    2300144: m60897_plate_1x1_w_holder_1
+    2300146: m6134_plate_2x2_rocking_0
+    2300148: m6134_plate_2x2_rocking_1
+    2300150: m85984_roof_tile_1_x_2_x_2_3_abs_0
+    2300152: m85984_roof_tile_1_x_2_x_2_3_abs_1
+    2300154: m87580_plate_2x2_w_1_knob_0
+    2300156: m87580_plate_2x2_w_1_knob_1
+    2300158: m87580_plate_2x2_w_1_knob_2
+    2300160: m88072_plate_1x2_w_vertical_schaft_0
+    2300162: m88072_plate_1x2_w_vertical_schaft_1
+    2300164: m88072_plate_1x2_w_vertical_schaft_2
+    2300166: m89520_mini_knight_s_helmet_closed_0
+    2300168: m92746_luke_skywalker_wig_0
+    2300170: m98368_mini_toolbox_0
+    2300172: m98368_mini_toolbox_1
+    2300174: m99781_angular_plate_1_5_top_1x2_1_2_0
+    2300176: m99781_angular_plate_1_5_top_1x2_1_2_1
+    3300000: m11090_holder_3_2_w_tube_3_2_hole_0
+    3300002: m11090_holder_3_2_w_tube_3_2_hole_1
+    3300004: m11090_holder_3_2_w_tube_3_2_hole_2
+    3300006: m14417_plate_1x2_ball_5_9_middle_0
+    3300008: m14417_plate_1x2_ball_5_9_middle_1
+    3300010: m14704_plate_1x2_ball_cup_friction_middle_0
+    3300012: m14704_plate_1x2_ball_cup_friction_middle_1
+    3300014: m15301_SPRING_SHOOTER_BOTTOM_0
+    3300016: m15301_SPRING_SHOOTER_BOTTOM_0 1
+    3300018: m15302_SPRING_SHOOTER_TOP_0
+    3300020: m15302_SPRING_SHOOTER_TOP_0 1
+    3300022: m15303_arrow_8m_for_spring_shooter_0
+    3300024: m15303_arrow_8m_for_spring_shooter_1
+    3300026: m15303_arrow_8m_for_spring_shooter_2
+    3300028: m15303_arrow_8m_for_spring_shooter_3
+    3300030: m15303_arrow_8m_for_spring_shooter_5
+    3300032: m15303_arrow_8m_for_spring_shooter_6
+    3300034: m15303_arrow_8m_for_spring_shooter_7
+    3300036: m15573_plate_1x2_w_1_knob_0
+    3300038: m15573_plate_1x2_w_1_knob_1
+    3300040: m15706_plate_a_4m_45_0
+    3300042: m15706_plate_a_4m_45_1
+    3300044: m18031_mini_long_sword_0
+    3300046: m21712_angle_plate_1x2_2x2_0
+    3300048: m21712_angle_plate_1x2_2x2_1
+    3300050: m22385_flat_tile2x3_w_angle_0
+    3300052: m22385_flat_tile2x3_w_angle_0 1
+    3300054: m22385_flat_tile2x3_w_angle_1
+    3300056: m22385_flat_tile2x3_w_angle_2
+    3300058: m22385_flat_tile2x3_w_angle_3
+    3300060: m22391_roof_tile_4x4_45deg_0
+    3300062: m22402_armor_no_17_0
+    3300064: m22408_mini_shield_no_2_0
+    3300066: m3004_brick_1x2_0
+    3300068: m30057_round_plate_1x1_tr_0
+    3300070: m30057_round_plate_1x1_tr_1
+    3300072: m30057_round_plate_1x1_tr_2
+    3300074: m30057_round_plate_1x1_tr_3
+    3300076: m30068_round_brick_1_tr_0
+    3300078: m3021_plate_2x3_0
+    3300080: m3021_plate_2x3_1
+    3300082: m3021_plate_2x3_2
+    3300084: m3021_plate_2x3_3
+    3300086: m3022_plate_2x2_0
+    3300088: m3022_plate_2x2_1
+    3300090: m3023_plate_1x2_0
+    3300092: m3023_plate_1x2_1
+    3300094: m3023_plate_1x2_2
+    3300096: m3023_plate_1x2_3
+    3300098: m3023_plate_1x2_4
+    3300100: m33057_turkey_drumstick_0
+    3300102: m33057_turkey_drumstick_1
+    3300104: m33057_turkey_drumstick_2
+    3300106: m33057_turkey_drumstick_3
+    3300108: m3626_mini_head_no_1786_0
+    3300110: m3814_MINI_UPPER_PART_0
+    3300112: m3818_MINI_ARM__RIGHT_0
+    3300114: m3819_MINI_ARM__LEFT_0
+    3300116: m3820_MINI_HAND_0
+    3300118: m3820_MINI_HAND_1
+    3300120: m3937_rocker_bearing_1x2_0
+    3300122: m3937_rocker_bearing_1x2_1
+    3300124: m41769_right_plate_2x4_w_angle_0
+    3300126: m41770_left_plate_2x4_w_angle_0
+    3300128: m41879_mini_leg_0
+    3300130: m4287_roof_tile_1x3_25_inv_0
+    3300132: m4287_roof_tile_1x3_25_inv_1
+    3300134: m50950_brick_w_bow_1_3_0
+    3300136: m50950_brick_w_bow_1_3_1
+    3300138: m59233_lightening_bolt_co_inj_126_42_0
+    3300140: m59233_lightening_bolt_co_inj_126_42_1
+    3300142: m60897_plate_1x1_w_holder_0
+    3300144: m60897_plate_1x1_w_holder_1
+    3300146: m6134_plate_2x2_rocking_0
+    3300148: m6134_plate_2x2_rocking_1
+    3300150: m85984_roof_tile_1_x_2_x_2_3_abs_0
+    3300152: m85984_roof_tile_1_x_2_x_2_3_abs_1
+    3300154: m87580_plate_2x2_w_1_knob_0
+    3300156: m87580_plate_2x2_w_1_knob_1
+    3300158: m87580_plate_2x2_w_1_knob_2
+    3300160: m88072_plate_1x2_w_vertical_schaft_0
+    3300162: m88072_plate_1x2_w_vertical_schaft_1
+    3300164: m88072_plate_1x2_w_vertical_schaft_2
+    3300166: m89520_mini_knight_s_helmet_closed_0
+    3300168: m92746_luke_skywalker_wig_0
+    3300170: m98368_mini_toolbox_0
+    3300172: m98368_mini_toolbox_1
+    3300174: m99781_angular_plate_1_5_top_1x2_1_2_0
+    3300176: m99781_angular_plate_1_5_top_1x2_1_2_1
+    4300000: m22408_mini_shield_no_2_0
+    4300002: m22385_flat_tile2x3_w_angle_0
+    4300004: m22385_flat_tile2x3_w_angle_2
+    4300006: m22385_flat_tile2x3_w_angle_3
+    4300008: m3820_MINI_HAND_0
+    4300010: m3819_MINI_ARM__LEFT_0
+    4300012: m3820_MINI_HAND_1
+    4300014: m18031_mini_long_sword_0
+    4300016: m59233_lightening_bolt_co_inj_126_42_1
+    4300018: m33057_turkey_drumstick_3
+    4300020: m3818_MINI_ARM__RIGHT_0
+    4300022: m92746_luke_skywalker_wig_0
+    4300024: m3626_mini_head_no_1786_0
+    4300026: m15302_SPRING_SHOOTER_TOP_0
+    4300028: m15301_SPRING_SHOOTER_BOTTOM_0
+    4300030: m15303_arrow_8m_for_spring_shooter_2
+    4300032: m15303_arrow_8m_for_spring_shooter_6
+    4300034: m14417_plate_1x2_ball_5_9_middle_1
+    4300036: m99781_angular_plate_1_5_top_1x2_1_2_0
+    4300038: m3023_plate_1x2_1
+    4300040: m3021_plate_2x3_3
+    4300042: m4287_roof_tile_1x3_25_inv_0
+    4300044: m3023_plate_1x2_2
+    4300046: m50950_brick_w_bow_1_3_0
+    4300048: m21712_angle_plate_1x2_2x2_1
+    4300050: m30057_round_plate_1x1_tr_2
+    4300052: m30057_round_plate_1x1_tr_3
+    4300054: m15302_SPRING_SHOOTER_TOP_0
+    4300056: m15301_SPRING_SHOOTER_BOTTOM_0
+    4300058: m15303_arrow_8m_for_spring_shooter_0
+    4300060: m15303_arrow_8m_for_spring_shooter_7
+    4300062: m99781_angular_plate_1_5_top_1x2_1_2_1
+    4300064: m3023_plate_1x2_4
+    4300066: m30057_round_plate_1x1_tr_0
+    4300068: m30057_round_plate_1x1_tr_1
+    4300070: m3021_plate_2x3_2
+    4300072: m4287_roof_tile_1x3_25_inv_1
+    4300074: m3023_plate_1x2_3
+    4300076: m50950_brick_w_bow_1_3_1
+    4300078: m21712_angle_plate_1x2_2x2_0
+    4300080: m14417_plate_1x2_ball_5_9_middle_0
+    4300082: m14704_plate_1x2_ball_cup_friction_middle_0
+    4300084: m14704_plate_1x2_ball_cup_friction_middle_1
+    4300086: m3022_plate_2x2_0
+    4300088: m87580_plate_2x2_w_1_knob_1
+    4300090: m22402_armor_no_17_0
+    4300092: m3814_MINI_UPPER_PART_0
+    4300094: m41879_mini_leg_0
+    4300096: m6134_plate_2x2_rocking_0
+    4300098: m22385_flat_tile2x3_w_angle_1
+    4300100: m89520_mini_knight_s_helmet_closed_0
+    4300102: m3021_plate_2x3_1
+    4300104: m11090_holder_3_2_w_tube_3_2_hole_0
+    4300106: m11090_holder_3_2_w_tube_3_2_hole_1
+    4300108: m88072_plate_1x2_w_vertical_schaft_0
+    4300110: m41770_left_plate_2x4_w_angle_0
+    4300112: m87580_plate_2x2_w_1_knob_2
+    4300114: m30068_round_brick_1_tr_0
+    4300116: m3937_rocker_bearing_1x2_0
+    4300118: m85984_roof_tile_1_x_2_x_2_3_abs_1
+    4300120: m88072_plate_1x2_w_vertical_schaft_1
+    4300122: m33057_turkey_drumstick_0
+    4300124: m33057_turkey_drumstick_1
+    4300126: m33057_turkey_drumstick_2
+    4300128: m6134_plate_2x2_rocking_1
+    4300130: m22385_flat_tile2x3_w_angle_0
+    4300132: m3021_plate_2x3_0
+    4300134: m11090_holder_3_2_w_tube_3_2_hole_2
+    4300136: m41769_right_plate_2x4_w_angle_0
+    4300138: m87580_plate_2x2_w_1_knob_0
+    4300140: m60897_plate_1x1_w_holder_0
+    4300142: m60897_plate_1x1_w_holder_1
+    4300144: m3937_rocker_bearing_1x2_1
+    4300146: m85984_roof_tile_1_x_2_x_2_3_abs_0
+    4300148: m88072_plate_1x2_w_vertical_schaft_2
+    4300150: m59233_lightening_bolt_co_inj_126_42_0
+    4300152: m15303_arrow_8m_for_spring_shooter_3
+    4300154: m15303_arrow_8m_for_spring_shooter_5
+    4300156: m22391_roof_tile_4x4_45deg_0
+    4300158: m15573_plate_1x2_w_1_knob_0
+    4300160: m15573_plate_1x2_w_1_knob_1
+    4300162: m15706_plate_a_4m_45_0
+    4300164: m15706_plate_a_4m_45_1
+    4300166: m3023_plate_1x2_0
+    4300168: m3022_plate_2x2_1
+    4300170: m3004_brick_1x2_0
+    4300172: m98368_mini_toolbox_0
+    4300174: m15303_arrow_8m_for_spring_shooter_1
+    4300176: m98368_mini_toolbox_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
