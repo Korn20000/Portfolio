@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url('fonts/Montserrat-Bold.ttf') format("opentype");
+}
+
+body {
+	background-color: #35536B;
+	text-align: center;
+	height: 100%;
+}
+
+p.loggedAsText{
+	font-family: "Montserrat-Bold";
+	font-size: 40px;
+	color: white;
+}
+
+p.redirectText{
+	font-family: "Montserrat-Bold";
+	font-size: 20px;
+	color: #E34F43;
+}

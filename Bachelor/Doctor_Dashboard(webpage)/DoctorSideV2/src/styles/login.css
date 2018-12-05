@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url('fonts/Montserrat-Regular.ttf') format("opentype");
+}
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url('fonts/Montserrat-Bold.ttf') format("opentype");
+}
+
+body {
+	background-color: #35536B;
+	text-align: center;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 0px 0px;
+	margin-bottom: 50px;
+	margin-top: -10px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+	background-color: #E9EBED;
+}
+
+input, select, textarea {
+	font-family: "Montserrat";
+	font-size: 25px;
+	color: black;
+}
+
+input[type=button] {
+    width: 100%;
+    background-color: #E34F43;
+    color: white;
+    padding: 14px 20px;
+    margin-top: 80px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	font-size: 25px;
+}
+
+input[type=button]:hover {
+    background-color: #F08080;
+}
+
+div.loginForm {
+    border-radius: 5px;
+    background-color: #63A8C7;
+    padding: 20px;
+	margin: auto;
+	width: 45%;
+	text-align: center;
+}
+
+p.labels {
+	font-family: "Montserrat-Bold";
+	font-size: 25px;
+	color: white;
+}
+
+p.status {
+	font-family: "Montserrat";
+	font-size: 20px;
+	color: #B22222;
+}
+
+.error { color: red; }
