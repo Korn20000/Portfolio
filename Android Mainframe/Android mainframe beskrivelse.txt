@@ -1,8 +1,8 @@
-Selvom der ikke er den store kode i det så synes jeg nu det var et meget godt result der blevet (guppe).
-Android mainframe er et brætspil som blev lavet til augmented reality (ikke færdig udviklet og lavet i Unity).
-Jeg har lagt et power point med ind så I kan se hvordan det ser ud. 
+Selvom der ikke er den store kode i det sÃ¥ synes jeg nu det var et meget godt result der blev lavet (guppe).
+Android mainframe er et brÃ¦tspil som blev lavet til augmented reality (ikke fÃ¦rdig udviklet og lavet i Unity).
+Jeg har lagt et power point med ind sÃ¥ I kan se hvordan det ser ud. 
 
 De klasser jeg sad med og kan findes i NEWEST\NOW!\Assets\USING_THIS\Scripts:
-- SpawnMultiple.cs: viser objekter på brættet.
-- tracking.cs: Tracker hvilket objekter der skal være på brættet dvs. sætter man noget ind over
-en "QR" kode så vil objektet forsvinde.
+- SpawnMultiple.cs: viser objekter pÃ¥ brÃ¦ttet.
+- tracking.cs: Tracker hvilket objekter der skal vÃ¦re pÃ¥ brÃ¦ttet dvs. sÃ¦tter man noget ind over
+en "QR" kode sÃ¥ vil objektet forsvinde.
